@@ -10,4 +10,11 @@
 @import "oplo/variables//border-variables";
 
 // IMPORT PLACEHOLDERS HERE ################################################
-@import "oplo/variables//place-holders"
+@import "oplo/variables//place-holders";
+
+// IMPORT ALIGNMENTS HERE ##################################################
+@import "oplo/gridAlignment//grid-alignment";
+
+body {
+    background-color: rgba(0, 0, 0, 0.05);
+}

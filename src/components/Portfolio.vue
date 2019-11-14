@@ -23,6 +23,6 @@ export default {
 <style lang="scss">
 .parallax {
     /* The image used */
-    background-image: url("../assets/38585.jpg");
+    background-image: url("../assets/38591.jpg");
 }
 </style>

@@ -4,8 +4,12 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
-Vue.config.productionTip = false
 import "./assets/sass/oplo-journey.scss";
+
+import '@fortawesome/fontawesome-free/css/all.css'
+import '@fortawesome/fontawesome-free/js/all.js'
+
+Vue.config.productionTip = false
 
 new Vue({
   router,
