@@ -1,0 +1,22 @@
+@import "./variables/colours";
+
+h1 {
+    @include set-font;
+}
+
+.aboutH2 {
+    font-size: 45px;
+}
+
+p {
+    font-size: 4px;
+}
+
+.darkFont{
+    color: darken($oplo-magenta, 0%) !important;
+}
+
+
+.lightFont{
+    color: lighten($oplo-blue, 30%) !important;
+}
