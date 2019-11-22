@@ -14,3 +14,7 @@
 .borderBoxThree {
     @include border-three(15px);
 }
+
+.bootstrapListItem {
+    background: none !important;
+}

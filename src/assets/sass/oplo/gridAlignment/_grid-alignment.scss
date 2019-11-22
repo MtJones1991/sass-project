@@ -37,20 +37,18 @@ p {
   @media only screen and (max-width: 968px) {
     .grid {
       display: grid;
-      border: 1px solid black;
+      // border: 1px solid black;
       max-width: 800px;
       grid-template-columns: 5fr 5fr;
       grid-gap: 20px;
       padding: 30px;
-      background-color: rgba(0, 0, 0, .05);
     }
   
     .content, .sidebar, .ad {
       padding: 5px;
       margin-bottom: 5px;
       font-size: 14px;
-      border: 1px dotted #0074d9;
-      background-color: rgba(#cfae51, .1);
+      // border: 1px dotted #0074d9;
     }
   
     }
@@ -59,20 +57,17 @@ p {
     @media only screen and (max-width: 768px) {
       .grid {
         display: block;
-        border: 1px solid black;
+        // border: 1px solid black;
         max-width: 800px;
         // grid-template-columns: 5fr 5fr;
         grid-gap: 20px;
-        padding: 30px;
-        background-color: rgba(0, 0, 0, .05);
+        padding: 35px;
       }
     
       .content, .sidebar, .ad {
-        padding: 5px;
+        padding: 15px;
         margin-bottom: 5px;
         font-size: 14px;
-        border: 1px dotted #0074d9;
-        background-color: rgba(#66d47e, .1);
       }
     
       }

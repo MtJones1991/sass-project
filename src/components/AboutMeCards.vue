@@ -1,30 +1,86 @@
 <template>
+<div class="wrapper">
 
+    <div class="animatedText d-flex justify-content-center mt-5">
+        <h1 class="">A little insight. </h1>
+    </div>
+
+    <div class="pt-5 grid">
+        <div class="mt-5 mt-5 content" >
+            <i class="fas fa-fill-drip fa-5x"></i>
+            <h2 class="pt-4">Painter</h2>
+            <p>Useful articles.</p>
+        </div>
+
+        <div class="mt-5 content" >
+            <i class="fas fa-camera fa-5x"></i>
+            <h2 class="pt-4">Photographer</h2>
+            <p>Useful articles.</p>
+        </div>
+
+        <div class="mt-5 content">
+            <i class="fas fa-hat-wizard fa-5x"></i>
+            <h2 class="pt-4">Architect.</h2>
+            <p>I buiild and paint model villages.</p>
+        </div>
+    </div>
+
+    <div class="grid">
+        <div class="mt-5 content">
+            <i class="fas fa-dice-d20 fa-5x"></i>
+            <h2 class="pt-4">Game Master</h2>
+            <p>Creating worlds and running games of Pathfinder.</p>
+        </div>
+
+        <div class="mt-5 content">
+            <i class="fas fa-cookie-bite fa-5x"></i>
+            <h2 class="pt-4">Baker</h2>
+            <p>Another addicting hobby, I can make a fierce batch of bagels.</p>
+        </div>
+
+        <div class="mt-5 content">
+            <i class="fas fa-mountain fa-5x"></i>
+            <h2 class="pt-4">Outdoorsman</h2>
+            <p>Wild camping, hiking and astrophotography.</p>
+        </div>
+    </div>
+
+</div>
 </template>
 
 <script>
 export default {
-    components: {
-    },
-
-    data() {
-        return {
-            textClass: "lightFont"
-        }
-    },
-
-    methods: {
-        bindClass() {
-            console.log(this.textClass)
-            this.textClass == "darkFont" ? this.textClass = "lightFont" : this.textClass = "darkFont"
-        }
+    name: 'HelloWorld',
+    props: {
+        msg: String
     }
 }
-</script> 
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
 
 <style lang="scss" scoped>
-.fontIcon {
-    height: 3em;
-    width: 3rem !important;
+h3 {
+    margin: 40px 0 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+a {
+    color: #42b983;
+}
+
+h1 {
+    color: black !important;
 }
 </style>
+
+

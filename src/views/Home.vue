@@ -1,8 +1,9 @@
 <template>
   <div class="home">
     <Portfolio />
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <Contact />
+    <AboutMeCards msg="Welcome to Your Vue.js App"/>
+    <ProjectsParallax />
+    <Projects />
 
   </div>
 </template>
@@ -10,17 +11,19 @@
 <script>
 // @ is an alias to /src
 import Portfolio from "@/components/Portfolio.vue"
-import HelloWorld from '@/components/HelloWorld.vue'
-import Contact from "@/components/Contact.vue"
+import AboutMeCards from '@/components/AboutMeCards.vue'
+import ProjectsParallax from "@/components/ProjectsParallax.vue"
+import Projects from "@/components/Projects"
 
 
 
 export default {
   name: 'home',
   components: {
-    HelloWorld,
+    AboutMeCards,
     Portfolio,
-    Contact
+    ProjectsParallax,
+    Projects
   }
 }
 </script>
