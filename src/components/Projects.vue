@@ -4,14 +4,14 @@
 
     <!-- Portfolio Item Heading -->
     <h1 class="my-4">
-        <small>Secondary Text</small>
+        <small class="">Secondary Text</small>
     </h1>
 
     <!-- Portfolio Item Row -->
-    <div class="row mt-5">
+    <div class="row mt-5" style="border-bottom: 2px solid grey;">
 
         <div class="col-md-8">
-            <img class="img-fluid" src="../assets/capture.jpg" alt="">
+            <img class="img-fluid pb-4" src="../assets/capture.jpg" alt="">
         </div>
 
         <div class="col-md-4">
@@ -29,7 +29,7 @@
     </div>
     <!-- /.row -->
 
-    <div class="row mt-5 pt-5">
+    <div class="row mt-5 pt-5" style="border-bottom: 2px solid grey;">
         <div class="col-md-4">
             <h3 class="my-3">Project Description</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
@@ -45,15 +45,15 @@
         </div>
 
         <div class="col-md-8">
-            <img class="img-fluid" src="../assets/nc-news.jpg" alt="">
+            <img class="img-fluid pb-3" src="../assets/nc-news.jpg" alt="">
         </div>
     </div>
 
     <!-- Portfolio Item Row -->
-    <div class="row mt-5">
+    <div class="row mt-5" style="border-bottom: 2px solid grey;">
 
         <div class="col-md-8">
-            <img class="img-fluid" src="../assets/f1.jpg" alt="">
+            <img class="img-fluid pb-4" src="../assets/f1.jpg" alt="">
         </div>
 
         <div class="col-md-4">
