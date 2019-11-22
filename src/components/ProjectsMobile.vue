@@ -30,6 +30,11 @@
     <!-- /.row -->
 
     <div class="row mt-5 pt-5 projectDiv">
+
+        <div class="col-md-8">
+            <img class="img-fluid pb-3" src="../assets/nc-news.jpg" alt="">
+        </div>
+        
         <div class="col-md-4">
             <h3 class="my-3">Project Description</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
@@ -44,9 +49,6 @@
             </div>
         </div>
 
-        <div class="col-md-8">
-            <img class="img-fluid pb-3" src="../assets/nc-news.jpg" alt="">
-        </div>
     </div>
 
     <!-- Portfolio Item Row -->
