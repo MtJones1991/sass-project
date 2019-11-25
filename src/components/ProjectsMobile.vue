@@ -21,8 +21,8 @@
                 <h3 class="">Project Details</h3>
                 <ul class="list-group list-group-flush bootstrapList">
                     <li class="list-group-item bootstrapListItem"><a href="https://github.com/MtlJ1991/Vue-Chat-App">https://github.com/MtlJ1991/Vue-Chat-App</a></li>
-                    <li class="list-group-item bootstrapListItem">Dapibus ac facilisis in</li>
-                    <li class="list-group-item bootstrapListItem">Morbi leo risus</li>
+                    <li class="list-group-item bootstrapListItem">Vue, Vuex, CSS, HTML, Firestore, Firebase</li>
+                    <li class="list-group-item bootstrapListItem">Using a brand new framework and live rendering data</li>
                 </ul>
             </div>
         </div>
@@ -42,8 +42,8 @@
                 <h3 class="">Project Details</h3>
                 <ul class="list-group list-group-flush bootstrapList">
                     <li class="list-group-item bootstrapListItem"><a href="https://github.com/MtlJ1991/FE-FT-NC-News-Public">https://github.com/MtlJ1991/FE-FT-NC-News-Public</a></li>
-                    <li class="list-group-item bootstrapListItem">Dapibus ac facilisis in</li>
-                    <li class="list-group-item bootstrapListItem">Morbi leo risus</li>
+                    <li class="list-group-item bootstrapListItem">React, CSS GRID, Node, MongoDB, express, Heroku</li>
+                    <li class="list-group-item bootstrapListItem">Used as my main portfolio piece after graduating Northcoders</li>
                 </ul>
             </div>
         </div>
@@ -64,8 +64,8 @@
                 <h3 class="">Project Details</h3>
                 <ul class="list-group list-group-flush bootstrapList">
                     <li class="list-group-item bootstrapListItem"><a href="https://github.com/MtlJ1991/F1-FEMtlJ1991">https://github.com/MtlJ1991/F1-FEMtlJ1991</a></li>
-                    <li class="list-group-item bootstrapListItem">Dapibus ac facilisis in</li>
-                    <li class="list-group-item bootstrapListItem">Morbi leo risus</li>
+                    <li class="list-group-item bootstrapListItem">JSX, HTML, CSS, Heroku</li>
+                    <li class="list-group-item bootstrapListItem">A group project that gave an insight into DOM manipulation</li>
                 </ul>
             </div>
         </div>
@@ -85,8 +85,8 @@
                 <h3 class="">Project Details</h3>
                 <ul class="list-group list-group-flush bootstrapList">
                     <li class="list-group-item bootstrapListItem"><a href="https://github.com/MtJones1991/python-training">https://github.com/MtJones1991<br>python-training</a></li>
-                    <li class="list-group-item bootstrapListItem">Dapibus ac facilisis in</li>
-                    <li class="list-group-item bootstrapListItem">Morbi leo risus</li>
+                    <li class="list-group-item bootstrapListItem">A short text adventure</li>
+                    <li class="list-group-item bootstrapListItem">Writen in Python 3.7</li>
                 </ul>
             </div>
         </div>
