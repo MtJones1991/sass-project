@@ -25,6 +25,6 @@ export default {
 <style lang="scss">
 .parallaxBottom {
     /* The image used */
-    background-image: url("../assets/38580.jpg");
+    background-image: url("../assets/kitchen.jpg");
 }
 </style>
