@@ -4,6 +4,10 @@ h1 {
     @include set-font;
 }
 
+h3 {
+    font-family: 'Orbitron', sans-serif !important;
+}
+
 .aboutH2 {
     font-size: 45px;
 }

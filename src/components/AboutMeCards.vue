@@ -9,19 +9,19 @@
         <div class="mt-5 mt-5 content" >
             <i class="fas fa-fill-drip fa-5x"></i>
             <h2 class="pt-4">Painter</h2>
-            <p>Useful articles.</p>
+            <p>Both miniatures and oil painting. A relxing hobby that helps me unwind after a hectic week of development.</p>
         </div>
 
         <div class="mt-5 content" >
             <i class="fas fa-camera fa-5x"></i>
             <h2 class="pt-4">Photographer</h2>
-            <p>Useful articles.</p>
+            <p>Astrophotography and landscapes. A lifelong hobby that has taken me to some spectacular places.</p>
         </div>
 
         <div class="mt-5 content">
             <i class="fas fa-hat-wizard fa-5x"></i>
-            <h2 class="pt-4">Architect.</h2>
-            <p>I buiild and paint model villages.</p>
+            <h2 class="pt-4">Tinkerer.</h2>
+            <p>I build and paint model villages as well as customize old guitars and even furniture! Making something out of nothing has always been a joy. </p>
         </div>
     </div>
 
@@ -29,19 +29,19 @@
         <div class="mt-5 content">
             <i class="fas fa-dice-d20 fa-5x"></i>
             <h2 class="pt-4">Game Master</h2>
-            <p>Creating worlds and running games of Pathfinder.</p>
+            <p>Creating worlds and running games of Pathfinder for my friends. Flexing the creative muscles helps with many aspects of my career</p>
         </div>
 
         <div class="mt-5 content">
             <i class="fas fa-cookie-bite fa-5x"></i>
             <h2 class="pt-4">Baker</h2>
-            <p>Another addicting hobby, I can make a fierce batch of bagels.</p>
+            <p>The most recent addition to my repertoire. Baking bagels and bread has become a weekly ritual. </p>
         </div>
 
         <div class="mt-5 content">
             <i class="fas fa-mountain fa-5x"></i>
             <h2 class="pt-4">Outdoorsman</h2>
-            <p>Wild camping, hiking and astrophotography.</p>
+            <p>Wild camping, hiking and astrophotography. A balance of a busy city life and being in the wilds has always been important</p>
         </div>
     </div>
 

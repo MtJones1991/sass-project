@@ -1,7 +1,5 @@
 <template>
 <div class="home">
-    Width: {{ window.width }},
-    Height: {{ window.height }}
      
     <Portfolio />
     <AboutMeCards msg="Welcome to Your Vue.js App" />
@@ -10,6 +8,8 @@
 
     <Projects v-if="window.width > 968" />
     <ProjectsMobile v-if="window.width < 968" />
+
+    <Contact class="mt-5 pt-5" />
 
 
 </div>
@@ -22,6 +22,7 @@ import AboutMeCards from '@/components/AboutMeCards.vue'
 import ProjectsParallax from "@/components/ProjectsParallax.vue"
 import Projects from "@/components/Projects"
 import ProjectsMobile from "@/components/ProjectsMobile"
+import Contact from "@/components/Contact.vue"
 
 
 export default {
@@ -31,7 +32,8 @@ export default {
         Portfolio,
         ProjectsParallax,
         Projects,
-        ProjectsMobile
+        ProjectsMobile,
+        Contact
     },
 
     data() {
@@ -47,6 +49,7 @@ export default {
 
     created() {
         window.addEventListener('resize', this.handleResize)
+        console.log("WINDOW:", window)
         this.handleResize();
     },
     destroyed() {
