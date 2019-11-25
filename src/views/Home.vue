@@ -38,12 +38,10 @@ export default {
 
     data() {
         return {
-           
                 window: {
                     width: 0,
                     height: 0
                 }
-          
         }
     },
 
