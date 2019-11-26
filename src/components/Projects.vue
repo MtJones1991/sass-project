@@ -8,7 +8,7 @@
     </h1>
 
     <!-- Portfolio Item Row -->
-    <div class="row mt-5 projectDiv p-5">
+    <div data-aos-duration="1500" data-aos="fade-down-right" class="row mt-5 projectDiv p-5">
 
         <div class="col-md-6">
             <img style="cursor: pointer;" @click="handleClick('https://chat-application-55386.web.app/')" class="img-fluid shadow pb-4" src="../assets/capture.jpg" alt="">
@@ -29,7 +29,7 @@
     </div>
     <!-- /.row -->
 
-    <div class="row mt-5 pt-5 projectDiv p-5">
+    <div data-aos-duration="1500" data-aos="fade-down-left" class="row mt-5 pt-5 projectDiv p-5">
         <div class="col-md-6">
             <h3 class="my-3">Social media app</h3>
             <p>My first full stack application written with node, react and mongoDb, this was written back in 2018 when I can a student at Northcoders.</p>
@@ -37,7 +37,7 @@
                 <h3 class="">Project Details</h3>
                    <ul class="list-group list-group-flush bootstrapList">
                     <li class="list-group-item bootstrapListItem"><a href="https://github.com/MtlJ1991/Vue-Chat-App">https://github.com/MtlJ1991/Vue-Chat-App</a></li>
-                    <li class="list-group-item bootstrapListItem">Vue, Vuex, CSS, HTML, Firestore, Firebase</li>
+                    <li class="list-group-item bootstrapListItem">Vue, Vuetify, CSS, HTML, Firestore, Firebase</li>
                     <li class="list-group-item bootstrapListItem">Using a brand new framework and live rendering data</li>
                 </ul>
             </div>
@@ -49,7 +49,7 @@
     </div>
 
     <!-- Portfolio Item Row -->
-    <div class="row mt-5 projectDiv p-5">
+    <div  data-aos-duration="1500" data-aos="fade-down-right" class="row mt-5 projectDiv p-5">
 
         <div class="col-md-6">
             <img style="cursor: pointer;" @click="handleClick('https://f1-nc-matt-jen.herokuapp.com/')" class="img-fluid shadow pb-4" src="../assets/f1.jpg" alt="">
@@ -70,7 +70,7 @@
     </div>
     <!-- /.row -->
 
-    <div class="row mt-5 pt-5 projectDiv p-5">
+    <div data-aos-duration="1500" data-aos="fade-down-left" class="row mt-5 pt-5 projectDiv p-5">
         <div class="col-md-6">
             <h3 class="my-3">Python adventure</h3>
             <p>In house training and some spare time between projects lead me to Python. Here is a small text based game I'm sure you'll enjoy!</p>
@@ -79,7 +79,7 @@
                 <ul class="list-group list-group-flush bootstrapList">
                     <li class="list-group-item bootstrapListItem"><a href="https://github.com/MtJones1991/python-training">https://github.com/MtJones1991<br>python-training</a></li>
                     <li class="list-group-item bootstrapListItem">A short text adventure</li>
-                    <li class="list-group-item bootstrapListItem">Writen in Python 3.7</li>
+                    <li class="list-group-item bootstrapListItem">Written in Python 3.7</li>
                 </ul>
             </div>
         </div>
