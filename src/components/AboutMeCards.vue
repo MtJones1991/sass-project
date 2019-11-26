@@ -20,7 +20,7 @@
 
         <div class="mt-5 content projectDiv" data-aos-duration="1300" data-aos="zoom-in">
             <i class="fas fa-hat-wizard fa-3x"></i>
-            <h2 class="pt-4">Tinkerer.</h2>
+            <h2 class="pt-4">Tinkerer</h2>
             <p>I build and paint model villages as well as customize old guitars and even furniture! Making something out of nothing has always been a joy. </p>
         </div>
     </div>
